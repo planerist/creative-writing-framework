@@ -1,0 +1,5 @@
+# Ephemeral agent-generated files (regenerated on every run)
+*.tmp.md
+
+# OS noise
+.DS_Store
